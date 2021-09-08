@@ -7,7 +7,7 @@ resources:
 #- argocd/namespace-staging.yaml
 #- argocd/namespace-prod.yaml
 #- argocd/namespace-istio-system.yaml
-- argocd/namespace-openldap.yaml
+#- argocd/namespace-openldap.yaml
 #- argocd/namespace-sealed-secrets.yaml
 #- argocd/namespace-tools.yaml
 #- argocd/namespace-openshift-storage.yaml
